@@ -1,0 +1,13 @@
+{
+  "id": "googlemessages",
+  "name": "Google Messages",
+  "version": "1.0.0",
+  "description": "Google Messages",
+  "main": "index.js",
+  "author": "TT",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://messages.android.com/",
+    "hasNotificationSound": true
+  }
+}
